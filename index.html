@@ -20,15 +20,53 @@
   </head>
 
   <body>
-    <h1 id="header">Biafran Recipes</h1>
-    <h3>A collection of spectacular recipes in Biafra</h3>
-    <div>
-      <ul>
-        <li><a href="./recipes/egwusi.html">Egwusi Soup</a></li>
-        <li><a href="./recipes/nkwobi.html">Nkwobi</a></li>
-        <li><a href="./recipes/ofeakwu.html">Ofeakwu</a></li>
-      </ul>
-    </div>
-    <a href="#header">Return to the top</a>
+    <header>
+      <nav>
+        <div id="topnav">
+          <a id="biafran_brand" href="./index.html">OdinRecipes</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        <section>
+          <h1>Biafran Recipes</h1>
+          <figure>
+            <div class="recipe_cooking_image">
+              <img src="./images/biafran_recipes.jpg" 
+                   alt="Biafran recipe preparation"
+                   height="341"
+                   width="341"
+              >
+              <figcaption>
+                <small>
+                  Credit: Image from
+                  <a href="https://www.pexels.com" target="_blank" rel="noopener noreferrer">Pexels.com</a>
+                </small>
+              </figcaption>
+            </div>
+          </figure>
+
+          <h3>Collection of Some Outstanding Biafran Recipes:</h3>
+          <div>
+            <ul>
+              <li id="recipe_link"><a href="./recipes/egwusi.html">Egwusi Soup</a></li>
+              <li id="recipe_link"><a href="./recipes/nkwobi.html">Nkwobi</a></li>
+              <li id="recipe_link"><a href="./recipes/ofeakwu.html">Ofeakwu</a></li>
+            </ul>
+          </div>
+        </section>
+        <a href="#topnav">Return to the top</a>
+      </div>
+    </main>
+    
+    <footer>
+      <div class="footnav">
+        <div>
+          <small>&copy;2023 OdinRecipes. All Rights Reserved.</small>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
