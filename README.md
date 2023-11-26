@@ -2,7 +2,7 @@
 
 This **[Recipes Project](https://www.theodinproject.com/lessons/foundations-recipes)**, from the **The Odin Project**'s Web Development curriculum presents an online gallery of different Biafran foods/recipes vastly popular to the Igbo-speaking people.
 
-## Skills to Be Gained
+## Skills Gained
 
 - HTML Semantics
 - Lists - `ordered, unordered, and description lists`
@@ -11,3 +11,6 @@ This **[Recipes Project](https://www.theodinproject.com/lessons/foundations-reci
 - Image contents
 - Improved written and oral communication
 - Intellectual, Social, Cultural, and Emotional Intelligence
+- Google Fonts
+- Social Media Preview
+- Favicon
