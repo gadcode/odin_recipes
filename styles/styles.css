@@ -114,7 +114,7 @@ ol li .list_lu {
   list-style: upper-roman;
 }
 
-#recipe_link {
+.recipe_link {
   font-size: 25px;
   font-weight: bold;
   display: inline-block;
@@ -125,7 +125,7 @@ ol li .list_lu {
   margin: 30px;
 }
 
-#recipe_link:hover {
+.recipe_link:hover {
   font-size: 30px;
   background-color: #000;
   color: white;
@@ -133,7 +133,7 @@ ol li .list_lu {
   border-radius: 10px;
 }
 
-#recipe_link a:hover {
+.recipe_link a:hover {
   color: #fff;
 }
 
