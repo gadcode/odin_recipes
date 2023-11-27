@@ -3,18 +3,18 @@
 
 /* Josefin font family */
 @font-face {
-    font-family: Josefin;
-    src: url(../fonts/josefin-sans/static/JosefinSans-Regular.ttf);
+  font-family: Josefin;
+  src: url(../fonts/josefin-sans/static/JosefinSans-Regular.ttf);
 }
 
 /* Lexend Deca font family */
 @font-face {
-    font-family: Lexend;
-    src: url(../fonts/lexend-deca/static/LexendDeca-Regular.ttf);
+  font-family: Lexend;
+  src: url(../fonts/lexend-deca/static/LexendDeca-Regular.ttf);
 }
 
 /* Livvic font family */
 @font-face {
-    font-family: Livvic;
-    src: url(../fonts/livvic/Livvic-Regular.ttf);
+  font-family: Livvic;
+  src: url(../fonts/livvic/Livvic-Regular.ttf);
 }
