@@ -33,13 +33,13 @@ a {
 
 /* Navigation */
 #brand {
-  color: hsl(39, 100%, 50%);
+  color: var(--blue);
   font-weight: bold;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 #brand:hover {
-  color: var(--blue);
+  color: red;
   font-weight: bold;
   background: #FFFFFF;
   border: 2px solid var(--blue);
