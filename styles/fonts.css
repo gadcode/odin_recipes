@@ -12,9 +12,3 @@
   font-family: Lexend;
   src: url(../fonts/lexend-deca/static/LexendDeca-Regular.ttf);
 }
-
-/* Livvic font family */
-@font-face {
-  font-family: Livvic;
-  src: url(../fonts/livvic/Livvic-Regular.ttf);
-}
