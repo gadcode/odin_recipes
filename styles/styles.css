@@ -1,15 +1,16 @@
 @import url(./fonts.css);
 
+
 :root {
   /* Font family */
   --Josefin: 'Josefin', Helvetica, Verdana, 'Times New Roman', Georgia, sans-serif;
   --Lexend: 'Lexend', Helvetica, Verdana, Georgia, sans-serif;
+
   /* Colors */
   --blue: #1DA1FF;
   --gray: #9A9A9A;
   --light-gray: #CCCCCC;
 }
-
 
 /* Global rules */
 * {
@@ -28,7 +29,6 @@ a {
   text-decoration: none;
   color: var(--blue);
 }
-
 
 /* Navigation */
 #brand {
@@ -61,7 +61,6 @@ a {
   max-width: 85%;
 }
 
-
 /* Fonts */
 h1 {
   padding: 20px;
@@ -74,7 +73,6 @@ h3 {
   padding: 20px;
   font-weight: bold;
 }
-
 
 /* Image(s) styling */
 img {
@@ -95,7 +93,6 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
 
 /* List styles */
 ul li {
@@ -154,7 +151,6 @@ ol li .list_lu {
   text-align: center;
   font-family: var(--Josefin);
 }
-
 
 /* Responsive Design */
 /* Mobile */
